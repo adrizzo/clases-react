@@ -4,7 +4,7 @@ import Titles from '../Components/Titles/Titles'
 function Home() {
   return (
     <div>
-      <Titles>lajsdhajlhsdajd</Titles>
+      <Titles />
     </div>
   )
 }
